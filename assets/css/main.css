@@ -28,6 +28,7 @@ a {
 /* header section */
 
 .top-nav {
+  
   background-color: var(--background);
   text-align: right;
   font-size: 0.9rem;
