@@ -17,7 +17,7 @@ To cap off the HTML/CSS part of Microverse Technical Curriculum, I was given [th
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link]( https://prernapriyali.github.io/conference-replica/)
 
 
 
