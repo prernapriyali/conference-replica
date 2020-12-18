@@ -218,8 +218,8 @@ a {
 }
 
 .past-one {
-  background: url('../img/conference.png') no-repeat center;
-  background-size: cover;
+  background:url('../img/conference.png') no-repeat center;
+  background-size:cover;
 }
 
 .past-two {
@@ -394,7 +394,7 @@ a {
 
   .table-responsive {
     display: table;
-  }
+}
 
   .sp3,
   .sp4,
@@ -469,5 +469,4 @@ a {
     background-color: var(--others);
     color: var(--background);
   }
-
 }
