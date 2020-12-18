@@ -119,16 +119,12 @@ a {
   font-size: 5rem;
   line-height: 1;
   background: linear-gradient(45deg, rgba(255, 0, 0, 1) 0%, rgba(33, 3, 3, 1) 33%, rgba(236, 82, 66, 1) 56%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
   color: var(--textColor);
 }
 
 .other-banner {
   font-size: 3.5rem;
   background: unset;
-  -webkit-text-fill-color: unset;
-  -webkit-background-clip: unset;
 }
 
 .description {
@@ -219,7 +215,7 @@ a {
 
 .past-one {
   background: url('../img/conference.png') no-repeat center;
-  background-size:cover;
+  background-size: cover;
 }
 
 .past-two {
@@ -394,7 +390,8 @@ a {
 
   .table-responsive {
     display: table;
-}
+  }
+
   .sp3,
   .sp4,
   .sp5,
