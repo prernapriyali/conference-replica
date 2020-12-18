@@ -416,10 +416,6 @@ a {
     width: 80%;
   }
 
-  .about-past-symposium {
-    flex-direction: column;
-  }
-
   .past {
     width: 100%;
     height: 15rem;
